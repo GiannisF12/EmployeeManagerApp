@@ -1,0 +1,7 @@
+{
+    "email": "daniel@gmail.com",
+    "imageUrl": "https://avatar1.png",
+    "jobTitle": "JavaScript",
+    "name": "Daniel Craig",
+    "phone": "4233242334"
+}
